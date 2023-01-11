@@ -14,7 +14,7 @@ To install this project run
 
 Step 1: 
 ```bash
-  git clone https://https://github.com/grsendha/ai_radio_app.git
+  git clone https://https://github.com/grsendha/ai_radio_app
 ```
 Step 2:
 ```bash
