@@ -7,6 +7,8 @@ This is a radio app where you can ask Alan AI to play some music.
     <img src="assets/images/main.jpg"  width="800" alt="Alan AI Radio App">
   </a>
 </p>
+![main](https://user-images.githubusercontent.com/75114005/215694307-954ae7a0-cf47-4552-bf7d-b75031114e8e.jpg)
+
 
 ## Installation
 
